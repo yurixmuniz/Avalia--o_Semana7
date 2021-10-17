@@ -13,12 +13,12 @@
   <link rel="canonical" href="https://getbootstrap.com/docs/4.1/examples/carousel/">
 
   <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="css/carousel.css" rel="stylesheet">
+  <link href="carousel.css" rel="stylesheet">
 
-  <link href="css/footers.css" rel="stylesheet">
+  <link href="footers.css" rel="stylesheet">
 </head>
 
 <body style="background-color: rgb(255, 208, 0);">
@@ -105,7 +105,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="first-slide" src="images/renovation.jfif" alt="First slide">
+          <img class="first-slide" src="renovation.jfif" alt="First slide">
           <div class="container">
             <div class="carousel-caption text-left">
               <h1>Renovações no Ginásio da Escola</h1>
@@ -114,7 +114,7 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img class="second-slide" src="images/prize.jfif" alt="Second slide">
+          <img class="second-slide" src="prize.jfif" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Premiação das Olimpiadas de Matemática</h1>
@@ -123,7 +123,7 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img class="third-slide" src="images/fair.jpg" alt="Third slide">
+          <img class="third-slide" src="fair.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption text-right">
               <h1>Feira de Ciências Cast Group</h1>
@@ -179,7 +179,7 @@
     crossorigin="anonymous"></script>
   <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
   <script src="../../assets/js/vendor/holder.min.js"></script>
-  <script src="js/bootstrap.bundle.js"></script>
+  <script src="bootstrap.bundle.js"></script>
 </body>
 
 </html>
